@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CovidTrackerApp</string>
+    <string name="title_home">Global</string>
+    <string name="title_dashboard">Indonesia</string>
+</resources>
